@@ -2,6 +2,6 @@ module.exports = [
   {
     id: 0,
     username: 'shopper',
-    password: '1234'
-  }
-];
+    password: '1234',
+  },
+]
